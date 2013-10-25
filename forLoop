@@ -3,3 +3,5 @@ for i in reversed(range(1,10,2)):
 
 for i in reversed(range(20,31,1)):
     print(i)
+    
+//update 1
